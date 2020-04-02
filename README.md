@@ -10,5 +10,5 @@ Solution - https://www.frontendmentor.io/solutions/responsive-with-flexbox-and-j
 Live site - https://gracious-benz-b8a1e1.netlify.app/
 
 ## Tech Stack
-- HTML5, CSS3
+- HTML5, CSS3, JavaScript, ES6+
 
